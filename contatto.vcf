@@ -7,7 +7,7 @@ ORG: Rivit S.p.A.
 TEL;TYPE=WORK,VOICE:+39 0445 359331
 TEL;TYPE=CELL,VOICE:+39 366 6442168
 TEL;TYPE=WORK,MAIN:+39  0445 359311
-EMAIL;TYPE=INTERNET,WORK:p.saoncella@rivit.com
+EMAIL:p.saoncella@rivit.com
 ADR;TYPE=WORK:;;Via Andrea Palladio 129;Caltrano;VI;36030;Italia
 URL;TYPE=WORK:https://www.Rivit.com
 NOTE:Contatto aziendale – QR Code
